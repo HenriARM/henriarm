@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 
 
 Passionate data scientist and learner experienced of working in the IT and services industry. Experienced with data cleansing, transformation, visualization and building Machine Learning models. Unique blend of skills with analytical mindset and strong social skills to tell a story through data.
 
