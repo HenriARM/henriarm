@@ -14,6 +14,7 @@ TECHNICAL SKILLS:
 
 - 🔭 I’m currently working on Computer Vision problems
 - 🌱 I’m currently learning parallel programming and cryptography
-- 👯 I’m looking to collaborate on Machine Learning solutionss
+- 👯 I’m looking to collaborate on Machine Learning solutions
 - 💬 Ask me about anything
 
+[![HenriARM GitHub stats:](https://github-readme-stats.vercel.app/api?username=henriarm&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
